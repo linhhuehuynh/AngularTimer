@@ -1,0 +1,12 @@
+.darkBorder{
+    border: 5px solid black;
+}
+
+.center{
+    text-align: center;
+}
+
+.containerPadding{
+    margin-right: 50%;
+    padding-bottom: 3%;
+}
